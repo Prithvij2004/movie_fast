@@ -3,6 +3,6 @@ api for movie
 
 
 # Run
-'''
+```
 uvicorn main:app --reload
-'''
+```
